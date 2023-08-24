@@ -1,4 +1,7 @@
-# Hello :wave:, I am Ramy (or @rhpo to some people) 😃 
+[![Ramy's GitHub Banner](https://github.com/rhpo/rhpo/assets/69460661/a976a57e-3512-4d08-bcba-34d9ed592fcb)](https://github.com/rhpo)
+
+# Hello :wave:, I am Ramy (or @rhpo)
+po to some people) 😃 
 - A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - A Pythonista 🐍
