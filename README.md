@@ -17,9 +17,9 @@ Want to know more about me? [Check out my portfolio.](https://www.ramey.ml/)
 
 <br>
 
-## 📌 Pinned Repositories
+<div align="center">
 
-<br>
+## My Loved Repos 💖
 
 <a href="https://github.com/rhpo/Luna">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rhpo&repo=Luna&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -31,18 +31,13 @@ Want to know more about me? [Check out my portfolio.](https://www.ramey.ml/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rhpo&repo=life.js&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
-<a href="https://github.com/rhpo/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rhpo&repo=Jax&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</div>
 
 <br>
-<br>
 
-## &#x1f4c8; GitHub Stats
+<div align="center">
 
-<br>
+## My GitHub Status 📊
 
 <a href="https://github.com/rhpo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhpo&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -51,36 +46,30 @@ Want to know more about me? [Check out my portfolio.](https://www.ramey.ml/)
 <a href="https://github.com/rhpo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rhpo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
-
+</div>
 <br>
 
-## 💼 Skills
+<div align="center">
 
-<h3>Programming languages</h3>
+## My Skills 🧠
+
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=indigo)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&logoColor=white&color=rgb(0,106,232))
-
-<h3>Web Libraries 🕸️</h3>
-<br>
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=royalblue)
 ![](https://img.shields.io/badge/Svelte-informational?style=flat&logo=svelte&logoColor=white&color=orange)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=pink)
-
-<h3>Tools 🛠️</h3>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-
-<h3>Graphic Design 🎨</h3>
-
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=royalblue)
 ![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=orange)
 
+</div>
 <br>
