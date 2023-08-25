@@ -56,6 +56,7 @@ Want to know more about me? [Check out my portfolio.](https://www.ramey.ml/)
 
 ## 💼 Skills
 
+<h3>Programming languages</h3>
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=indigo)
@@ -64,16 +65,12 @@ Want to know more about me? [Check out my portfolio.](https://www.ramey.ml/)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&logoColor=white&color=rgb(0,106,232))
 
-<details>
-<summary>More skills 🎭</summary>
-  
+<h3>Web Libraries 🕸️</h3>
 <br>
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=royalblue)
 ![](https://img.shields.io/badge/Svelte-informational?style=flat&logo=svelte&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=pink)
-
-<br>
 
 <h3>Tools 🛠️</h3>
 
@@ -81,13 +78,9 @@ Want to know more about me? [Check out my portfolio.](https://www.ramey.ml/)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
-<br>
-
 <h3>Graphic Design 🎨</h3>
 
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=royalblue)
 ![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=orange)
-
-</details>
 
 <br>
