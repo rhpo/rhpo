@@ -1,3 +1,5 @@
+<a href="https://ramyhadid.tech" target="_blank">Check my portfolio first (ramyhadid.tech)!</a>
+
 [![Ramy's GitHub Banner](https://github.com/rhpo/rhpo/assets/69460661/a976a57e-3512-4d08-bcba-34d9ed592fcb)](https://github.com/rhpo)
 
 <div align="center">
