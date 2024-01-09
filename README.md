@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/rhpo/rhpo)](https://rhpo.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/rhpo/rhpo)](https://ramyhadid.tech)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-Informational?style=flat&logo=instagram&logoColor=white&color=royalblue)](https://instagram.com/ramyhadid)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rhpo)
@@ -15,7 +15,7 @@ Hey there 👋
 
 I’m Ramy, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://www.ramey.ml/)
+Want to know more about me? [Check out my portfolio.](https://www.ramyhadid.tech/)
 
 <br>
 
