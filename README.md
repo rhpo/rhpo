@@ -1,6 +1,5 @@
-<a href="https://ramyhadid.tech" target="_blank">Check my portfolio first (ramyhadid.tech)!</a>
 
-[![Ramy's GitHub Banner](https://github.com/rhpo/rhpo/assets/69460661/a976a57e-3512-4d08-bcba-34d9ed592fcb)](https://github.com/rhpo)
+[![Ramy's GitHub Banner]([https://github.com/rhpo/rhpo/assets/69460661/a976a57e-3512-4d08-bcba-34d9ed592fcb](https://i.ibb.co/HKGxgVn/Add-a-heading-1.png))](https://github.com/rhpo)
 
 <div align="center">
 
@@ -13,9 +12,9 @@
 
 Hey there 👋
 
-I’m Ramy, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m "VOID", a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://www.ramyhadid.tech/)
+Want to know more about me? [Check out my portfolio.](https://rhpo.netlify.app/)
 
 <br>
 
