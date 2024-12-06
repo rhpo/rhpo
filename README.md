@@ -1,5 +1,5 @@
 
-[![Ramy's GitHub Banner]([https://github.com/rhpo/rhpo/assets/69460661/a976a57e-3512-4d08-bcba-34d9ed592fcb](https://i.ibb.co/HKGxgVn/Add-a-heading-1.png))](https://github.com/rhpo)
+![Ramy's GitHub Banner](https://raw.githubusercontent.com/rhpo/rhpo/refs/heads/main/Add%20a%20heading(1).png)
 
 <div align="center">
 
