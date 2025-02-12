@@ -56,6 +56,7 @@ Want to know more about me? [Check out my portfolio.](https://rhpo.netlify.app/)
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=4babc2)
 ![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=indigo)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
