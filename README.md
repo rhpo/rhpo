@@ -54,8 +54,8 @@ Want to know more about me? [Check out my portfolio.](https://rhpo.netlify.app/)
 <a href="https://github.com/rhpo/Luna">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rhpo&repo=Luna&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/rhpo/life.js">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rhpo&repo=life.js&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/rhpo/vanilla-tilt-svelte">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rhpo&repo=vanilla-tilt-svelte&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 </div>
